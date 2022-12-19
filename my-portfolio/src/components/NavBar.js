@@ -9,7 +9,7 @@ const NavBar = () => {
   };
 
   const h1Styles = {
-    color: "darkblue",
+    color: "black",
   };
 
   const ulStyles = {
@@ -25,10 +25,11 @@ const NavBar = () => {
 
   const aStyles = {
     textDecoration: "none",
+    listStyle: "none"
   };
 
   const aHoverStyles = {
-    color: "blue",
+    color: "black",
   };
 
   return (
