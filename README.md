@@ -1,6 +1,4 @@
-# 21-MERN-Book-Search-Engine
-
-    Google Books GraphQL API Challenge
+# React Portfolio
 
 ## Description
 
